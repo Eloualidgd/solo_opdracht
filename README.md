@@ -1,2 +1,3 @@
 # solo_opdracht
-git@github.com:Eloualidgd/solo_opdracht.git
+https://eloualidgd.github.io/solo_opdracht/
+
